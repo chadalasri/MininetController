@@ -1,6 +1,6 @@
 # Final Skeleton
 #
-# Hints/Reminders from Lab 4:
+# Reminders:
 # 
 # To send an OpenFlow Message telling a switch to send packets out a
 # port, do the following, replacing <PORT> with the port number the 
